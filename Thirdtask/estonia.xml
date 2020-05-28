@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <country>Estonia</country>
+    <provinces>
+      <province>Estonia</province>
+      <confirmed>1774</confirmed>
+      <recovered>938</recovered>
+      <deaths>63</deaths>
+      <active>773</active>
+    </provinces>
+    <latitude>58.595272</latitude>
+    <longitude>25.013607</longitude>
+    <date>2020-05-17</date>
+  </row>
+</root>

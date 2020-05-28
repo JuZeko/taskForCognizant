@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <country>Lithuania</country>
+    <provinces>
+      <province>Lithuania</province>
+      <confirmed>1541</confirmed>
+      <recovered>997</recovered>
+      <deaths>56</deaths>
+      <active>488</active>
+    </provinces>
+    <latitude>55.169438</latitude>
+    <longitude>23.881275</longitude>
+    <date>2020-05-17</date>
+  </row>
+</root>

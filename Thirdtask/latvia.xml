@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <country>Latvia</country>
+    <provinces>
+      <province>Latvia</province>
+      <confirmed>1008</confirmed>
+      <recovered>662</recovered>
+      <deaths>19</deaths>
+      <active>327</active>
+    </provinces>
+    <latitude>56.879635</latitude>
+    <longitude>24.603189</longitude>
+    <date>2020-05-17</date>
+  </row>
+</root>

@@ -1,0 +1,39 @@
+{
+	"fifthTask": [{
+			"code": "US",
+			"confirmed": "1571131",
+			"country": "USA",
+			"critical": "17249",
+			"deaths": "93558",
+			"lastChange": "2020-05-20T12:58:00+02:00",
+			"lastUpdate": "2020-05-20T13:15:03+02:00",
+			"latitude": "37.09024",
+			"longitude": "-95.71289",
+			"recovered": "363149"
+		},
+		{
+			"code": "RU",
+			"confirmed": "308705",
+			"country": "Russia",
+			"critical": "2300",
+			"deaths": "3091",
+			"lastChange": "2020-05-20T09:33:01+02:00",
+			"lastUpdate": "2020-05-20T13:15:03+02:00",
+			"latitude": "61.52401",
+			"longitude": "105.318756",
+			"recovered": "85392"
+		},
+		{
+			"code": "BR",
+			"confirmed": "271885",
+			"country": "Brazil",
+			"critical": "8318",
+			"deaths": "17983",
+			"lastChange": "2020-05-20T01:55:51+02:00",
+			"lastUpdate": "2020-05-20T13:15:03+02:00",
+			"latitude": "-14.235004",
+			"longitude": "-51.92528",
+			"recovered": "106794"
+		}
+	]
+}

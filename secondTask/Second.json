@@ -1,0 +1,108 @@
+[
+	{
+		"name": "Svalbard and Jan Mayen",
+		"alpha2code": "SJ",
+		"alpha3code": "SJM",
+		"latitude": 77.553604,
+		"longitude": 23.670272
+	},
+	{
+		"name": "Greenland",
+		"alpha2code": "GL",
+		"alpha3code": "GRL",
+		"latitude": 71.706936,
+		"longitude": -42.604303
+	},
+	{
+		"name": "Iceland",
+		"alpha2code": "IS",
+		"alpha3code": "ISL",
+		"latitude": 64.963051,
+		"longitude": -19.020835
+	},
+	{
+		"name": "Finland",
+		"alpha2code": "FI",
+		"alpha3code": "FIN",
+		"latitude": 61.92411,
+		"longitude": 25.748151
+	},
+	{
+		"name": "Faeroe Islands",
+		"alpha2code": "FO",
+		"alpha3code": "FRO",
+		"latitude": 61.892635,
+		"longitude": -6.911806
+	},
+	{
+		"name": "Russia",
+		"alpha2code": "RU",
+		"alpha3code": "RUS",
+		"latitude": 61.52401,
+		"longitude": 105.318756
+	},
+	{
+		"name": "Norway",
+		"alpha2code": "NO",
+		"alpha3code": "NOR",
+		"latitude": 60.472024,
+		"longitude": 8.468946
+	},
+	{
+		"name": "Åland Islands",
+		"alpha2code": "AX",
+		"alpha3code": "ALA",
+		"latitude": 60.1995487,
+		"longitude": 20.3711715
+	},
+	{
+		"name": "Sweden",
+		"alpha2code": "SE",
+		"alpha3code": "SWE",
+		"latitude": 60.128161,
+		"longitude": 18.643501
+	},
+	{
+		"name": "Estonia",
+		"alpha2code": "EE",
+		"alpha3code": "EST",
+		"latitude": 58.595272,
+		"longitude": 25.013607
+	},
+	{
+		"name": "Latvia",
+		"alpha2code": "LV",
+		"alpha3code": "LVA",
+		"latitude": 56.879635,
+		"longitude": 24.603189
+	},
+	{
+		"name": "Denmark",
+		"alpha2code": "DK",
+		"alpha3code": "DNK",
+		"latitude": 56.26392,
+		"longitude": 9.501785
+	},
+	{
+		"name": "Canada",
+		"alpha2code": "CA",
+		"alpha3code": "CAN",
+		"latitude": 56.130366,
+		"longitude": -106.346771
+	},
+	{
+		"name": "UK",
+		"alpha2code": "GB",
+		"alpha3code": "GBR",
+		"latitude": 55.378051,
+		"longitude": -3.435973
+	},
+	{
+		"name": "Lithuania",
+		"alpha2code": "LT",
+		"alpha3code": "LTU",
+		"latitude": 55.169438,
+		"longitude": 23.881275
+	}
+	
+]

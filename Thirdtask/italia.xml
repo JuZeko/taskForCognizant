@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <country>Italy</country>
+    <provinces>
+      <province>Italy</province>
+      <confirmed>225435</confirmed>
+      <recovered>125176</recovered>
+      <deaths>31908</deaths>
+      <active>68351</active>
+    </provinces>
+    <latitude>41.87194</latitude>
+    <longitude>12.56738</longitude>
+    <date>2020-05-17</date>
+  </row>
+</root>
